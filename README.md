@@ -4,6 +4,11 @@ Exploiting SQL Injection vulnerability
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
 
+```
+Register Number: 212222040121
+Name: Praveen V
+```
+
 ## DESIGN STEPS:
 ### Step 1:
 Install kali linux either in partition or virtual box or in live mode
